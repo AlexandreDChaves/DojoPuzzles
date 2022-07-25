@@ -29,6 +29,8 @@ Neste problema, você deverá exibir uma lista de 1 a 100, um em cada linha, com
 
 [Link do Desafio](https://dojopuzzles.com/problems/fizzbuzz/)
 
+[Resolução](https://github.com/AlexandreDChaves/DojoPuzzles/blob/master/fizzbuzz/fizzbuzz.py)
+
 ---
 ## JOKENPO
 ---
@@ -43,6 +45,8 @@ As regras são as seguintes:
 - Papel empata com Papel e ganha de Pedra
 
 [Link do desafio](https://dojopuzzles.com/problems/jokenpo/)
+
+[Resolução](https://github.com/AlexandreDChaves/DojoPuzzles/blob/master/jokenpo/jokenpo.py)
 
 ---
 ## Tecnologias Utilizadas:
