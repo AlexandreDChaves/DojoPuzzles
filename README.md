@@ -15,6 +15,8 @@ Exemplos:
 - Valor do Saque: R$ 80,00 – Resultado Esperado: Entregar 1 nota de R$50,00 1 nota de R$ 20,00 e 1 nota de R$ 10,00.
 
  [Link do Desafio](https://dojopuzzles.com/problems/caixa-eletronico/)
+ 
+ [Resolução](https://github.com/AlexandreDChaves/DojoPuzzles/blob/master/caixa_eletronico/caixa_eletronico.py)
 
 ---
 ## FIZZBUZZ
@@ -26,6 +28,8 @@ Neste problema, você deverá exibir uma lista de 1 a 100, um em cada linha, com
 - Números divisíveis por 3 e 5 devem aparecer como 'FizzBuzz' ao invés do número'.
 
 [Link do Desafio](https://dojopuzzles.com/problems/fizzbuzz/)
+
+[Resolução](https://github.com/AlexandreDChaves/DojoPuzzles/blob/master/fizzbuzz/fizzbuzz.py)
 
 ---
 ## JOKENPO
@@ -41,6 +45,8 @@ As regras são as seguintes:
 - Papel empata com Papel e ganha de Pedra
 
 [Link do desafio](https://dojopuzzles.com/problems/jokenpo/)
+
+[Resolução](https://github.com/AlexandreDChaves/DojoPuzzles/blob/master/jokenpo/jokenpo.py)
 
 ---
 ## Tecnologias Utilizadas:
