@@ -52,3 +52,4 @@ As regras são as seguintes:
 ## Tecnologias Utilizadas:
 
 **Pycharm**
+**Python**
